@@ -1,0 +1,17 @@
+Jul 26 15:58:06 scan3 journal: [debug]:drweb-se F[14189]: DrWebCallDwShieldEx: command is not implemented: 16
+Jul 26 15:58:06 scan3 drweb-se[3287]: [debug]:Client 0xa6105a0: disconnected
+Jul 26 15:58:06 scan3 drweb-se[3287]: [err]:F-14211: Dump: BEGIN
+Jul 26 15:58:06 scan3 drweb-se[3287]: [err]:F-14211: Dump: Segmentation fault at 00000000
+Jul 26 15:58:06 scan3 drweb-se[3287]: [err]:F-14211: Dump: EAX=E4399DEC EBX=00000000 ECX=00000000 EDX=00000000
+Jul 26 15:58:06 scan3 drweb-se[3287]: [err]:F-14211: Dump: ESI=F6D84000 EDI=F6C16E74 EBP=F6C16E94 EFL=00010246
+Jul 26 15:58:06 scan3 drweb-se[3287]: [err]:F-14211: Dump: ESP=F6C16E3C (746E C1F6 0040 D8F6 EC9D 39E4 F45A 3AF7 EC9D 39E4 A222 1E00 1B00 0000 946E C1F6)
+Jul 26 15:58:06 scan3 drweb-se[3287]: [err]:F-14211: Dump: EIP=F73A4EBC (8A1A 8A15 7970 06F7 8A9B 586D 06F7 00D3 8A50 0100 DA8D 5802 0FB6 7301 31C0 8A86)
+Jul 26 15:58:06 scan3 drweb-se[3287]: [err]:F-14212: Dump: BEGIN
+Jul 26 15:58:06 scan3 drweb-se[3287]: [err]:F-14212: Dump: Segmentation fault at 00000000
+Jul 26 15:58:06 scan3 drweb-se[3287]: [err]:F-14212: Dump: EAX=E4399DEC EBX=00000000 ECX=00000000 EDX=00000000
+Jul 26 15:58:06 scan3 drweb-se[3287]: [err]:F-14212: Dump: ESI=F6D84000 EDI=F6C16E74 EBP=F6C16E94 EFL=00010246
+Jul 26 15:58:06 scan3 drweb-se[3287]: [err]:F-14212: Dump: ESP=F6C16E3C (746E C1F6 0040 D8F6 EC9D 39E4 F45A 3AF7 EC9D 39E4 A222 1E00 1B00 0000 946E C1F6)
+Jul 26 15:58:06 scan3 drweb-se[3287]: [err]:F-14212: Dump: EIP=F73A4EBC (8A1A 8A15 7970 06F7 8A9B 586D 06F7 00D3 8A50 0100 DA8D 5802 0FB6 7301 31C0 8A86)
+Jul 26 15:58:06 scan3 drweb-se[3287]: [info]:Engine child with pid 14211 terminated
+Jul 26 15:58:06 scan3 drweb-se[3287]: [debug]:Cemetery: clean up after pid=14211
+Jul 26 15:58:06 scan3 drweb-se[3287]: [debug]:Client 0xa5f6ec0: disconnected
